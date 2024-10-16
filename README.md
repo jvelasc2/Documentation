@@ -1,2 +1,3 @@
 # Documentation
-Location for sample user guide pages
+
+This repo is created for hosting sample user guide pages
